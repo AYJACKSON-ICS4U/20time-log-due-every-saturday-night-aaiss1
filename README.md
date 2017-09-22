@@ -1,2 +1,3 @@
-# 20Time-ICS4U
-ICS4U starter page
+# 20Time-Unreal-Engine-Project
+##### This project will be a collaboration between Anees, Cooper, Carter, and Timothy, in our ICS4U class. As seen on Google Classroom, our goal is to create a smaller version of the popular game, _Binding of Isaac_, which will take lots of time and effort, but we will at least progress, if we do not finish by the end of the semester. Up until this point, I have slowly started to familiarize myself with the tool, Unreal Engine 4, by learning how to sculpt landscapes, and smoothen the rough edges of the untextured entities we created. My prority right now is to continue learning how to use the tool through YouTube video tutorials and from playing around with the tool myself.
+
